@@ -3,8 +3,13 @@
 ## Description
 
 This project randomly connects 2 peers online and opens up a video call between the peers.
+Built an omegle clone but with Push Protocol
 
-## Getting Started
+- Connect wallet, sign MM message.
+- Connect to peer or stay online.
+- video call when a peer is up.
+
+## How To run locally
 
 ### Installation - Server
 
