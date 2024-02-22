@@ -7,7 +7,7 @@ Built an omegle clone but with Push Protocol
 
 - Connect wallet, sign MM message.
 - Connect to peer or stay online.
-- video call when a peer is up.
+- Video call when a peer is up.
 
 ## How to run locally
 
