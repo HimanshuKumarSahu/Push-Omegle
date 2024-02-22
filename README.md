@@ -9,7 +9,7 @@ Built an omegle clone but with Push Protocol
 - Connect to peer or stay online.
 - video call when a peer is up.
 
-## How To run locally
+## How to run locally
 
 ### Installation - Server
 
